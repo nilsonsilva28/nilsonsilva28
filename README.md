@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Odenilson+Silva;I'm+31+years+old;I'm+from+Brazil;I+Graduated+Computer+Technician+Programming+Emphasis;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
- 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonsilva28&layout=usage&langs_count=16&theme=dark"/>
-
-</div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
